@@ -1,0 +1,1 @@
+import { SvgFromUri } from "react-native-svg";
